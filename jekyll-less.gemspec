@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency('jekyll', [">= 0.10.0"])
   s.add_runtime_dependency('less', [">= 2.0.5"])
+  s.add_runtime_dependency('therubyracer', [">= 0.12.1"])
 end
